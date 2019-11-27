@@ -1,4 +1,4 @@
-# Image Text Papers
+# Image-Text Papers
 
 ## Introduction
 
