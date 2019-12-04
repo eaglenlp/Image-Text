@@ -14,3 +14,4 @@
 8. Neural Compatibility Ranking for Text-based Fashion Matching. *SIGIR 2019*. [[PDF](https://unsuthee.github.io/about/SIGIR2019_Compatible_Matching.pdf)]
 9. Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching. *SIGIR 2019*. [[PDF](https://xuemengsong.github.io/SIGIR2019_PAICM.pdf)]
 10. **Grounded compositional semantics for finding and describing images with sentences**. *ACL 2014*. [[PDF](https://nlp.stanford.edu/~socherr/SocherKarpathyLeManningNg_TACL2013.pdf)]
+11. **Learning Disentangled Representation for Cross-Modal Retrieval with Deep Mutual Information Estimation**. *MM 2019*. [[PDF(https://dl.acm.org/citation.cfm?id=3351053)]]
