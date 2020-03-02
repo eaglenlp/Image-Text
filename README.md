@@ -4,6 +4,10 @@
 
 ## Papers
 
+# Image Captioning
+1. Unified Vision-Language Pre-Training for Image Captioning and VQA. *AAAI 2020*. [[PDF](https://arxiv.org/abs/1909.11059)] [[github repo](https://github.com/LuoweiZhou/VLP)]
+2. 
+
 # Image-Text Matching
 1. Few-Shot Image and Sentence Matching via Gated Visual-Semantic Embedding. *AAAI 2019*. [[PDF](https://www.aaai.org/ojs/index.php/AAAI/article/download/4866/4739)]
 2. Multi-Level Visual-Semantic Alignments with Relation-Wise Dual Attention Network for Image and Text Matching. *IJCAI 2019*. [[PDF](https://www.ijcai.org/proceedings/2019/0111.pdf)]
