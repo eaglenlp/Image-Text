@@ -16,6 +16,7 @@
 5. Position Focused Attention Network for Image-Text Matching. *IJCAI 2019*. [[PDF](https://arxiv.org/pdf/1907.09748)]
 6. Neural Compatibility Ranking for Text-based Fashion Matching. *SIGIR 2019*. [[PDF](https://unsuthee.github.io/about/SIGIR2019_Compatible_Matching.pdf)]
 7. Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching. *SIGIR 2019*. [[PDF](https://xuemengsong.github.io/SIGIR2019_PAICM.pdf)]
+8. HAL: Improved Text-Image Matching by Mitigating Visual Semantic Hubs [[PDF](https://arxiv.org/abs/1911.10097)]
 
 # Multimodal Retrieval
 1. **Composing Text and Image for Image Retrieval - An Empirical Odyssey**. *CVPR 2019*. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vo_Composing_Text_and_Image_for_Image_Retrieval_-_an_Empirical_CVPR_2019_paper.pdf)]
